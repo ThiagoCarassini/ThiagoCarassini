@@ -15,7 +15,7 @@
 
 
 
-#You can also find me at:
+**You can also find me at:**
 
 <a href="https://www.linkedin.com/in/thiago-carassini-5b108a323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" />
